@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/migg-test',
+	db: 'mongodb://192.168.1.1/migg-test',
 	port: 3001,
 	app: {
 		title: 'Migg - Test Environment'
